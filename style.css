@@ -45,8 +45,8 @@ body, html {
  /* The text-block class selector controls the text-box on screens >800px. You will also need to adjust values in the next text-box selector. */
 .text-block {
     display: block;
-    width: 55%;
-    background-color: inherit;
+    width: 99%;
+    background-color: aliceblue;
     padding: 0px;
     border: 0px solid black;
     margin-top: 100px;
@@ -55,7 +55,7 @@ body, html {
     margin-right: auto;
     font-family: inherit;
     font-size: 1em;
-    color: springgreen;
+    color: black;
   }
 
  /* This code helps your text-block scale for screens ≤800px. */
